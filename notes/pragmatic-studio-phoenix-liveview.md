@@ -683,7 +683,11 @@ end
 
 # Key Events
 
+- live view has first class support for key events
+
 # File Uploads: UI
+
+- use streams
 
 # File Uploads: Server
 
